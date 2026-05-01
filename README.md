@@ -35,6 +35,6 @@ Wakeword ➔ Listen ➔ Audio In ➔ Whisper ➔ Prompt/Video Embeddings ➔ Qwe
 
 #### Copyrights and Licencing
 
-This repository uses Apache2.0 licence. 
+This repository uses MIT licence. 
 
 Any reuse of the code is allowed as long as s the original copyright notice is included.
