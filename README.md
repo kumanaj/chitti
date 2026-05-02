@@ -8,7 +8,7 @@ Built for educational STEM and AI Engineering purposes for edge AI enthusiasts.
 
 ## Hardware
 
-- Nvidia Jetson Nano
+- Jetson Nano / Rasperry Pi 5 / Linux PC/Laptop
 - USB Camera
 - USB Mic
 - USB Speaker
